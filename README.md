@@ -70,5 +70,5 @@ The analysis followed a structured data science workflow:
 - Excel (Pivot Tables and SUMIFs)
 - Python (Data cleaning and Data visualisation)
 
-You can click here to the [slides]()
+You can click here to the [slides](https://github.com/erica-prog/Accenture_Forage_Data_Analytics_and_Visualization/blob/main/Data%20Analytics%20(Accenture)-%20Task%203_final.pptx)
 
