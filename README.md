@@ -20,14 +20,17 @@ Analyze historical engagement data to uncover the most popular categories of con
 
 The analysis followed a structured data science workflow:
 
-1. Requirements Gathering: Clarified the business objective: determine the 5 most popular content categories using engagement metrics.
-2. Data Understanding: Reviewed 7 datasets and a relational data model. Selected three core datasets: `Reaction`, `Content`, and `Reaction Types`.
-3. Data Cleaning & Modeling: Merged datasets using content and reaction IDs. Aggregated reaction scores by category to determine relative popularity.
+1. **Business Understanding:** Clarified the business objective, which is to determine the 5 most popular content categories using engagement metrics.
+2. **Data Understanding:** Reviewed 7 datasets and a relational data model. Selected three core datasets: `Reaction`, `Content`, and `Reaction Types`.
+3. **Data Cleaning & Modeling:** Merged datasets using content and reaction IDs. Aggregated reaction scores by category to determine relative popularity.
+
 <p align="center">
   <img src="/assets/data_model.png" alt="Social Buzz Data Model" width="500">
 </p>
-5. Analysis & Visualization: Used content score summation to rank categories. Identified spikes in posting behavior and key engagement trends.
-6. Insight Delivery: Developed visualizations to communicate findings, including content distribution by month and category-level performance.
+
+4. **Analysis & Visualization:** Used content score summation to rank categories. Identified spikes in posting behavior and key engagement trends.
+
+5. **Insight Delivery:** Developed visualizations to communicate findings, including content distribution by month and category-level performance.
 
 ##  Key Insights
 
@@ -70,5 +73,5 @@ The analysis followed a structured data science workflow:
 - Excel (Pivot Tables and SUMIFs)
 - Python (Data cleaning and Data visualisation)
 
-You can click here to the [slides](https://github.com/erica-prog/Accenture_Forage_Data_Analytics_and_Visualization/blob/main/Accenture-%20Strategic%20Content%20Insights%20for%20Scaling%20User%20Engagement%20at%20Social%20Buzz.pdf)
+You can click here to the [**slides**](https://github.com/erica-prog/Accenture_Forage_Data_Analytics_and_Visualization/blob/main/Accenture-%20Strategic%20Content%20Insights%20for%20Scaling%20User%20Engagement%20at%20Social%20Buzz.pdf). 
 
